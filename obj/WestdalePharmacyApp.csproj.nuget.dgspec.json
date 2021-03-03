@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taekyung\\westdale-SEP\\westdale-SEP\\WestdalePharmacyApp\\WestdalePharmacyApp.csproj": {}
+    "C:\\Users\\Taekyung\\westdale-SEP\\westdale-SEP\\WestdalePharmacyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taekyung\\westdale-SEP\\westdale-SEP\\WestdalePharmacyApp\\WestdalePharmacyApp.csproj": {
+    "C:\\Users\\Taekyung\\westdale-SEP\\westdale-SEP\\WestdalePharmacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taekyung\\westdale-SEP\\westdale-SEP\\WestdalePharmacyApp\\WestdalePharmacyApp.csproj",
+        "projectUniqueName": "C:\\Users\\Taekyung\\westdale-SEP\\westdale-SEP\\WestdalePharmacyApp.csproj",
         "projectName": "WestdalePharmacyApp",
-        "projectPath": "C:\\Users\\Taekyung\\westdale-SEP\\westdale-SEP\\WestdalePharmacyApp\\WestdalePharmacyApp.csproj",
+        "projectPath": "C:\\Users\\Taekyung\\westdale-SEP\\westdale-SEP\\WestdalePharmacyApp.csproj",
         "packagesPath": "C:\\Users\\Taekyung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taekyung\\westdale-SEP\\westdale-SEP\\WestdalePharmacyApp\\obj\\",
+        "outputPath": "C:\\Users\\Taekyung\\westdale-SEP\\westdale-SEP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
